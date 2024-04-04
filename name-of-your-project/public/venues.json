@@ -1,0 +1,46 @@
+[
+  {
+    "id": 1,
+    "name": "Maui Island",
+    "place": "Hawaii, USA",
+    "description": "Maui Island is a stunning destination located in Hawaii, USA. It offers breathtaking views and is known for its pristine beaches, lush landscapes, and vibrant culture. With a capacity ranging from 300 to 600 guests, it's a perfect choice for a memorable wedding. Boat access is available, and accommodations are provided for a comfortable stay.",
+    "image": "https://i.ibb.co/27X8XH6/pic51-free-img.jpg",
+
+    "capacity": "300-600",
+    "boatAccess": true,
+    "accommodation": true
+  },
+  {
+    "id": 2,
+    "name": "Bangkok",
+    "place": "Thailand",
+    "description": "Bangkok, the vibrant capital of Thailand, is a bustling city with a unique blend of modernity and tradition. It's a perfect wedding destination with a capacity of 800-1500 guests. You can enjoy boat access and comfortable accommodations while celebrating your special day in this enchanting city.",
+    "image": "https://i.ibb.co/5W18fCy/pic52-free-img.jpg",
+
+    "capacity": "800-1500",
+    "boatAccess": true,
+    "accommodation": true
+  },
+  {
+    "id": 3,
+    "name": "Aljaferia Palace",
+    "place": "Zaragoza, Spain",
+    "description": "Aljaferia Palace, located in Zaragoza, Spain, is a historic gem with a capacity of 150-300 guests. While boat access is not available, the palace's architectural beauty and rich history make it a unique wedding venue. Accommodations are not provided, but nearby options are available.",
+    "image": "https://i.ibb.co/vVZPs40/pic53-free-img.jpg",
+
+    "capacity": "150-300",
+    "boatAccess": false,
+    "accommodation": false
+  },
+  {
+    "id": 4,
+    "name": "Ranthambore",
+    "place": "Rajasthan, India",
+    "description": "Ranthambore, located in the picturesque region of Rajasthan, India, is known for its rich wildlife and natural beauty. It offers a capacity of 400-800 guests and provides boat access for a unique wedding experience. Accommodations are available to ensure a comfortable stay.",
+    "image": "https://i.ibb.co/DCtCxyX/pic54-free-img.jpg",
+
+    "capacity": "400-800",
+    "boatAccess": true,
+    "accommodation": true
+  }
+]

@@ -1,0 +1,58 @@
+{
+  "services": [
+    {
+      "id": 1,
+      "title": "Full-Service Wedding Planning",
+      "name": "Full-Service Wedding Planning",
+      "image": "https://i.ibb.co/xsSkzMR/id1.jpg",
+      "price": "$5,000 - $10,000",
+      "short_description": "Comprehensive wedding planning service that covers every aspect of your big day.",
+      "long_description": "Our comprehensive wedding planning service covers every aspect of your big day. We handle everything from venue selection to coordination on the wedding day, ensuring a stress-free experience for you."
+    },
+    {
+      "id": 2,
+      "title": "Partial Wedding Planning",
+      "name": "Partial Wedding Planning",
+      "image": "https://i.ibb.co/Ybg0WNs/id2.jpg",
+      "price": "$3,000 - $6,000",
+      "short_description": "Assistance with specific aspects like vendor selection and seamless preparations.",
+      "long_description": "For couples who have some wedding details in place but need assistance with specific aspects like vendor selection, we offer partial wedding planning services to help you seamlessly complete your preparations."
+    },
+    {
+      "id": 3,
+      "title": "Day-Of Coordination",
+      "name": "Day-Of Coordination",
+      "image": "https://i.ibb.co/NYS2TFN/id3.jpg",
+      "price": "$1,500 - $3,000",
+      "short_description": "Professional logistics handling on your big day for a stress-free experience.",
+      "long_description": "On your wedding day, relax and enjoy every moment while we take care of the logistics. Our day-of coordination service ensures that everything runs smoothly from start to finish."
+    },
+    {
+      "id": 4,
+      "title": "Destination Wedding Planning",
+      "name": "Destination Wedding Planning",
+      "image": "https://i.ibb.co/cNhMFqQ/id4.jpg",
+      "price": "$7,000 - $15,000",
+      "short_description": "Specializing in dreamy weddings at picturesque locations around the world.",
+      "long_description": "Dreaming of a destination wedding? Let us turn your vision into reality. We specialize in planning and executing weddings in picturesque locations around the world."
+    },
+    {
+      "id": 5,
+      "title": "Themed Wedding Planning",
+      "name": "Themed Wedding Planning",
+      "image": "https://i.ibb.co/xfcG4zt/id5.webp",
+      "price": "$4,000 - $8,000",
+      "short_description": "Design unique themed celebrations that tell your love story.",
+      "long_description": "Create a wedding that reflects your unique style and interests. Our themed wedding planning service helps you design a celebration that tells your love story in a special way."
+    },
+    {
+      "id": 6,
+      "title": "Elopement Packages",
+      "name": "Elopement Packages",
+      "image": "https://i.ibb.co/WnhH5vr/id6.jpg",
+      "price": "$1,000 - $2,500",
+      "short_description": "Tailored, hassle-free elopement celebrations in stunning locations.",
+      "long_description": "For couples seeking an intimate and romantic wedding experience, our elopement packages offer a tailored, hassle-free celebration in a stunning location of your choice."
+    }
+  ]
+}
